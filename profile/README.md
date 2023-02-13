@@ -1,0 +1,2 @@
+## moneybot
+### https://moneybot.cash
