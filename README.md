@@ -1,1 +1,3 @@
-# readme
+# moneybot
+
+## https://moneybot.cash
